@@ -1,0 +1,19 @@
+{
+    "name": "nnamdi/contact",
+    "description": "This will send email to admin and save contact query in db",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nnamdi Okeke",
+            "email": "nahorr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nnamdi\\Contact\\": "src/"
+        }
+    }
+}
